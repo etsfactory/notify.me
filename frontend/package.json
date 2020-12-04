@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": ">=0.18.1",
     "dayjs": "1.8.10",
-    "highlight.js": "9.13.1",
+    "highlight.js": "10.4.1",
     "js-beautify": "1.8.9",
     "vue": "2.5.21",
     "vue-form-generator": "2.3.3",
